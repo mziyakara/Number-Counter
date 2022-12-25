@@ -1,0 +1,29 @@
+html{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  height: -webkit-fill-available;
+}
+.counterContainer{
+  width: 500px;
+  height: 250px;
+  border-radius: 50px;
+  border-color: black;
+  border-width: 3px;
+  border-style:groove;
+  background-color: beige;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: xx-large;
+  font-weight: 500;
+}
+
+
+.btn{
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+}
