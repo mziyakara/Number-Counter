@@ -5,6 +5,7 @@ html{
   flex-wrap: wrap;
   height: -webkit-fill-available;
 }
+
 .counterContainer{
   width: 500px;
   height: 250px;
@@ -20,7 +21,6 @@ html{
   font-size: xx-large;
   font-weight: 500;
 }
-
 
 .btn{
   width: 100px;
